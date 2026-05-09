@@ -5,7 +5,7 @@ A modern, fully responsive, animated personal portfolio website built with React
 ## 🌐 Live Demo
 
 **Visit your portfolio online:**  
-[https://portfolio-git-main-vinay-gupta-kandula-projects.vercel.app](https://portfolio-git-main-vinay-gupta-kandula-projects.vercel.app)
+[vinay_portfolio](https://portfolio-six-chi-tda4v2o149.vercel.app/)
 
 ## 🚀 Features
 
