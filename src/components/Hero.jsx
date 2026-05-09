@@ -103,7 +103,7 @@ export default function Hero() {
               <img
                 src="/vinay.png"
                 alt="Kandula Vinay Gupta"
-                className="w-full h-full object-cover object-[50%_45%] rounded-full border border-white/10 shadow-2xl transition duration-300 group-hover:scale-[1.02]"
+                className="w-full h-full object-cover object-[50%_48%] rounded-full border border-white/10 shadow-2xl transition duration-300 group-hover:scale-[1.02]"
               />
             </div>
           </motion.div>
