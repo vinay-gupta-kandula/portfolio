@@ -173,16 +173,3 @@ Users who enable "Reduce Motion" in their OS will have animations disabled autom
 - **Lighthouse Best Practices**: 90+
 - **Lighthouse SEO**: 85+
 
-## 📝 License
-
-MIT License - feel free to use this as a template for your own portfolio.
-
-## 🤝 Contributing
-
-Feel free to fork this repository and customize it for your own use!
-
----
-
-**Built with ❤️ using modern web technologies**
-
-Live Site: [your-domain.com](https://your-domain.com)
