@@ -2,6 +2,11 @@
 
 A modern, fully responsive, animated personal portfolio website built with React, Vite, Tailwind CSS, and Framer Motion.
 
+## 🌐 Live Demo
+
+**Visit your portfolio online:**  
+[https://portfolio-git-main-vinay-gupta-kandula-projects.vercel.app](https://portfolio-git-main-vinay-gupta-kandula-projects.vercel.app)
+
 ## 🚀 Features
 
 - **Fully Responsive Design**: Mobile-first approach with perfect scaling from mobile (375px) to desktop (1280px+)
