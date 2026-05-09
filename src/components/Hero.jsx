@@ -99,11 +99,13 @@ export default function Hero() {
             >
               Data Science
             </motion.div>
-            <img
-              src="/vinay.png"
-              alt="Kandula Vinay Gupta"
-              className="w-full h-full object-cover object-[50%_45%] relative z-50 rounded-full border border-white/10 shadow-2xl transition duration-300 group-hover:scale-[1.02]"
-            />
+            <div className="relative z-50 w-72 h-72 sm:w-80 sm:h-80">
+              <img
+                src="/vinay.png"
+                alt="Kandula Vinay Gupta"
+                className="w-full h-full object-cover object-[50%_45%] rounded-full border border-white/10 shadow-2xl transition duration-300 group-hover:scale-[1.02]"
+              />
+            </div>
           </motion.div>
         </motion.div>
       </div>
